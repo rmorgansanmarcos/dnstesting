@@ -1,0 +1,4 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst change-dns-servers
